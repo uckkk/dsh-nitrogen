@@ -19,3 +19,9 @@ dsh plugin add github:uckkk/dsh-nitrogen
 ## 许可
 
 MIT
+
+## 安装
+
+```bash
+dsh plugin add github:uckkk/dsh-nitrogen
+```
